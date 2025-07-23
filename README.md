@@ -13,7 +13,7 @@
 
 ### 💡 Skills & Tools
 
-- **Languages**: JavaScript (primary), Python  
+- **Languages**: JavaScript (primary), Python, C, HTML, CSS  
 - **Frontend**: React.js, Next.js, Tailwind CSS, 
 - **Backend**: Node.js (Express), Firebase, 
 - **Databases**: MongoDB, PostgreSQL 
