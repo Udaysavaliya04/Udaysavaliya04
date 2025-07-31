@@ -7,7 +7,7 @@
 
 - **Techify**: A fully-featured technical interview platform. 
   → *Live coding editor, video interviews, performance reports, AI analysis — all in one.*
-  **Site Link** : https://techify-platform.onrender.com
+  - **Site Link** : https://techify-platform.onrender.com
 
 - **Prysm**: A bold and secure password manager with a modern UI and intuitive UX  
   → *Think sleek design + military-grade encryption = peace of mind.*
