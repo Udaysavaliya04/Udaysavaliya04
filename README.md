@@ -17,8 +17,8 @@
 
 - **Languages**: JavaScript (primary), Python, C, HTML, CSS  
 - **Frontend**: React.js, Next.js, Tailwind CSS, 
-- **Backend**: Node.js (Express), Firebase, 
-- **Databases**: MongoDB, PostgreSQL 
+- **Backend**: Node.js (Express)
+- **Databases**: MongoDB
 - **AI Tools**: Gemini API
 
 ---
