@@ -37,3 +37,7 @@
 
  ![Visitor Count](https://komarev.com/ghpvc/?username=Udaysavaliya04&style=flat-square&color=blueviolet)
 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Udaysavaliya04&theme=gruvbox&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+ ![Isometric Contributions](https://github.com/yoshi389111/github-profile-3d-contrib)
+*(Note: This one requires a GitHub Action setup. If you want a simple image link, skip to #3)*
+
