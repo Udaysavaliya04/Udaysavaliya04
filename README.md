@@ -29,6 +29,20 @@
 > *“Code. Break it. Build it better.”*
 
 <!-- Check out pinned projects for live demos and source code! -->
+<a href="https://github.com/Udaysavaliya04/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Udaysavaliya04" />
+</a>
+<a href="https://github.com/Udaysavaliya04/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Udaysavaliya04&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<a href="https://github.com/Udaysavaliya04/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Udaysavaliya04&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Udaysavaliya04/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Udaysavaliya04&repo=convoychat" />
+</a>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Udaysavaliya04&show_icons=true&theme=radical" width="500" />
