@@ -35,6 +35,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udaysavaliya04&layout=compact&theme=radical" width="400" />
 </div>
 
- [![Trophies](https://github-profile-trophy.vercel.app/?Udaysavaliya04&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
  ![Visitor Count](https://komarev.com/ghpvc/?username=Udaysavaliya04&style=flat-square&color=blueviolet)
 
