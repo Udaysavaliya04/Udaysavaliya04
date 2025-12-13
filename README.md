@@ -36,3 +36,4 @@
 </div>
 
  ![Visitor Count](https://komarev.com/ghpvc/?username=Udaysavaliya04&style=flat-square&color=blueviolet)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Udaysavaliya04)](https://github.com/Udaysavaliya04/github-readme-stats)
