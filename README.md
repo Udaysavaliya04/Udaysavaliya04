@@ -30,4 +30,6 @@
 
 <!-- Check out pinned projects for live demos and source code! -->
 
-![General Stats](https://github-readme-stats.vercel.app/api?username=Udaysavaliya04&show_icons=true&theme=radical)   
+![General Stats](https://github-readme-stats.vercel.app/api?username=Udaysavaliya04&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Udaysavaliya04&layout=compact&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Udaysavaliya04&theme=radical)
