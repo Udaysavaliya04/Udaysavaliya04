@@ -36,18 +36,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Udaysavaliya04&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<a href="https://github.com/Udaysavaliya04/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Udaysavaliya04&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/Udaysavaliya04/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Udaysavaliya04&repo=convoychat" />
-</a>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Udaysavaliya04&show_icons=true&theme=radical" width="500" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udaysavaliya04&layout=compact&theme=radical" width="400" />
-</div>
-
  ![Visitor Count](https://komarev.com/ghpvc/?username=Udaysavaliya04&style=flat-square&color=blueviolet)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Udaysavaliya04)](https://github.com/Udaysavaliya04/github-readme-stats)
