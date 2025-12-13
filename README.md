@@ -31,7 +31,7 @@
 <!-- Check out pinned projects for live demos and source code! -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Udaysavaliya04&show_icons=true&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Udaysavaliya04&show_icons=true&theme=radical" width="500" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udaysavaliya04&layout=compact&theme=radical" width="400" />
 </div>
 
