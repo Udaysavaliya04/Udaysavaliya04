@@ -13,8 +13,7 @@
   → *Think sleek design + military-grade encryption = peace of mind.*
   - Demo Video in Repo readme file.
  
-- **Portfolio**:
-- **Site Link** : https://uday-savaliya-portfolio.onrender.com
+- **Portfolio**: https://uday-savaliya-portfolio.onrender.com
 
 ### 💡 Skills & Tools
 
