@@ -20,7 +20,7 @@ I write something for machines and they understand!
 - **Languages**: JavaScript (primary), Python, C, HTML, CSS  
 - **Frontend**: React.js, Tailwind CSS, 
 - **Backend**: Node.js (Express)
-- **Databases**: MongoDB
+- **Databases**: MongoDB, MySQL
 - **AI Tools**: Gemini API
 
 ---
