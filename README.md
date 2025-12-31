@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Uday Savaliya
+## Sup! I'm Uday
 
 🚀 Passionate Computer Engineering undergrad.
 🧠 Building cool, intelligent, and efficient web apps — one project at a time.
