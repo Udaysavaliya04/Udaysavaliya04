@@ -1,7 +1,6 @@
 ## Sup! I'm Uday
 
-🚀 Passionate Computer Engineering undergrad.
-🧠 Building cool, intelligent, and efficient web apps — one project at a time.
+I write something for machines and they understand!
 
 ### My Projects
 
