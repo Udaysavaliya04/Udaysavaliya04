@@ -30,12 +30,4 @@ I write something for machines and they understand!
 
 > *“Code. Break it. Build it better.”*
 
-<!-- Check out pinned projects for live demos and source code! -->
-<a href="https://github.com/Udaysavaliya04/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Udaysavaliya04" />
-</a>
-<a href="https://github.com/Udaysavaliya04/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Udaysavaliya04&layout=compact&langs_count=8&card_width=320" />
-</a>
-
  ![Visitor Count](https://komarev.com/ghpvc/?username=Udaysavaliya04&style=flat-square&color=blueviolet)
