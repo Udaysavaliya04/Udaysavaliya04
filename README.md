@@ -11,7 +11,6 @@ I write something for machines and they understand!
 - **Prysm**: A bold and secure password manager with a modern UI and intuitive UX  
   → *Think sleek design + military-grade encryption = peace of mind.*
   - **Site Link** : https://prysm-password-manager.onrender.com
-  - Demo Video in Repo readme file.
  
 - **Portfolio**: https://uday-savaliya-portfolio.onrender.com
 
