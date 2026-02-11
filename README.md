@@ -12,6 +12,9 @@ I write something for machines and they understand!
   → *Think sleek design + military-grade encryption = peace of mind.*
   - **Site Link** : https://prysm-password-manager.onrender.com
  
+- **LoanWolf**: Track shifting rates, simulate extra payments, and escape debt faster.
+  - **Site Link** : https://loanwolf-platform.onrender.com
+ 
 - **Portfolio**: https://uday-savaliya-portfolio.onrender.com
 
 ### 💡 Skills & Tools
